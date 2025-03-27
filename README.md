@@ -26,7 +26,7 @@ Matplotlib & Seaborn 🎨
 
 1️⃣ Clone this repository:
 
-git clone https: https://github.com/suryavhi704/DECISION_TRE 
+git clone https:(https://github.com/suryavhi704/DECISION_TREE)
 
 2️⃣ Navigate to the project folder:
 
